@@ -1,0 +1,349 @@
+ *{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+ }
+
+
+ 
+ body{
+   background-image: url(carta1111/fondo.jpg);
+   background-size: contain;
+   font-family: "Oswald", sans-serif;
+ }
+ 
+.nav{
+   font-family: "Oswald", sans-serif;
+   background-color: black;
+   font-size: large;
+}
+
+.nav a{
+   text-align: center;
+}
+
+.container{
+    text-align: center;
+    color: white;
+    margin-top: 2rem;
+ }
+ 
+ .containerLogo{
+    display: flex;
+    justify-content: center;
+    
+ }
+ 
+ .logo{
+    width: auto;
+    height: 300px;
+ }
+
+ .neon{
+    font-size: 60px;
+    text-shadow: 0 0 5px #ffc107, 0 0 15px #ffc107, 0 0 30px #ffc107, 0 0 50px #ffc107;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-family: 'Neonderthaw', cursive;
+ }
+ .container2{
+    margin-top: 7rem;
+    margin-bottom: 3rem;
+    text-align: center;
+    color: white;
+ }
+ 
+ 
+ .neon2{
+    font-size: 60px;
+    text-shadow: 0 0 5px #ffc107, 0 0 15px #ffc107, 0 0 30px #ffc107, 0 0 50px #ffc107;
+    font-family: 'Neonderthaw', cursive;
+ }
+
+
+ .titulo{
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+    color: #ffc107;
+    background: rgba(0, 0, 0, .85);
+    border-radius: 60px ;
+    border-color: #ffc107;
+    margin: 10rem 1rem 1rem 1rem;
+    padding: 1rem 1rem 1rem 1rem;
+ }
+
+ .TituloTragosAutor{
+   text-align: center;
+    font-family: "Oswald", sans-serif;
+    color: #ffc107;
+    background: rgba(0, 0, 0, .85);
+    border-radius: 60px ;
+    border-color: #ffc107;
+    margin: 10rem 1rem 5rem 1rem;
+    padding: 1rem 1rem 1rem 1rem;
+ }
+ 
+ .elementoTitulo{
+    text-align: center;
+    font-size: 60px;
+ }
+
+ .elementoTitulo2{
+   text-align: center;
+   font-size: 45px;
+}
+
+ 
+ .listas{
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+    color: #ffc107;
+    margin-top: 5rem;
+    background: rgba(0, 0, 0, .85);
+    border-radius: 30px ;
+    border-color: #ffc107;
+    font-size: 20px;
+    font-style: italic;
+    padding: 1rem 1rem 1rem 1rem;
+    margin: 3rem 1rem 1rem 1rem;
+ }
+ 
+
+
+  .elementoLista2{
+    font-size: 35px;
+    margin-top: 1rem;
+ }
+
+  .elementoLista3{
+    font-size: 30px;
+    margin-top: -1rem;
+ }
+
+
+.logo2{
+   width: 300px;
+   height: 300px;
+}
+
+.logoNav{
+   width: 50px;
+   height: 50px;
+}
+
+.tituloBebida{
+   text-align: center;
+   font-family: "Oswald", sans-serif;
+   color: #ffc107;
+   background: rgba(0, 0, 0, .85);
+   border-radius: 60px;
+   border-color: #ffc107;
+   margin: 3rem 5rem 1rem 5rem;
+   padding: 1rem 1rem 1rem 1rem;
+}
+
+.listasBebidas {
+   font-family: "Oswald", sans-serif;
+    color: #ffc107;
+    background: rgba(0, 0, 0, .85);
+    border-radius: 30px;
+    font-size: 20px;
+    font-style: italic;
+    margin: 1rem 1rem 1rem 1rem;
+   }
+
+.elementoListaBebidas{
+   color: #ffc107;
+}
+
+.tituloBebidas{
+   padding-top: 1rem;
+   color: #ffc107;
+}
+
+.tituloBebidas2{
+   padding-top: 1rem;
+   padding-bottom: 1rem;
+   color: #ffc107;
+}
+
+.listaDaikiri{
+  margin-top: -1rem;
+   font-size: 15px;
+}
+
+.listaDaikiri3{
+   font-size: 11px;
+}
+
+.listaDaikir{
+   margin-top: -1rem;
+   font-size: 11px;
+}
+
+.elementoLimonadas{
+   color: #ffc107;
+   font-size: 15px;
+}
+
+.elementoListaBebidas2{
+   color: #ffc107;
+   font-size: 19px;
+}
+
+.elementoListaBebidas3{
+   color: #ffc107;
+   font-size: 18px;
+}
+
+
+.tituloCervezas{
+   color: #ffc107;
+   font-size: 37px;
+}
+
+.listaDaikiri2{
+   margin-top: -1rem;
+   font-size: 15px;
+   color: white;
+}
+
+
+
+.precios{
+   font-size: 35px;
+   margin-top: -2rem;
+   text-align: center;
+}
+
+.extras{
+   font-size: 25px;
+   margin-bottom: 1rem;
+   text-align: center;
+}
+
+.punto{
+  color: black;
+}
+
+.precios{
+   font-size: 35px;
+   margin-top: 1rem;
+   text-align: center;
+}
+
+.extras{
+   font-size: 25px;
+   margin-bottom: 1rem;
+   text-align: center;
+}
+
+.preciosExtras{
+   font-size: 35px;
+   margin-top: -1rem;
+   text-align: center;
+}
+
+.h2{
+   font-size: 37px;
+}
+
+
+.footer{
+  color: goldenrod;
+  font-family: "Oswald", sans-serif;
+  background: rgba(0, 0, 0, .85);
+  border-radius: 60px;
+  border-color: #ffc107;
+  margin: 3rem 5rem 1rem 5rem;
+  padding: 1rem 1rem 1rem 1rem;
+}
+
+.redes{
+  width: 32px ;
+  height: 32px ;
+}
+
+.fuego{
+   width: 32px ;
+   height: 32px ;
+}
+
+.Demora{
+   font-size: 20px;
+}
+
+.elementoTitulo3{
+   text-align: center;
+   font-size: 45px;
+   color: goldenrod;
+}
+
+
+.modal{
+   display: flex;
+   justify-content: center;
+   border-radius: 60px;
+   width: 100%;   
+   height: auto;
+   margin-top: 1rem;
+}
+
+.cerrar{
+   position: absolute;
+   right: 1rem;
+   top: 1rem; 
+}
+
+.modal .imgModal{
+   width: 100%;
+   height: auto;
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   font-family: "Oswald", sans-serif;
+    color: #ffc107;
+    background: rgba(0, 0, 0, .85);
+    border-radius: 55px;
+    font-size: 20px;
+    font-style: italic;
+    padding: 1rem 1rem 1rem 1rem;
+}
+
+
+.contenedor-videos {
+   display: flex;
+   flex-direction: column;
+   gap: 20px; /* Espacio entre los videos */
+   align-items: center;
+   position: relative; 
+   overflow: hidden;
+   
+ }
+ 
+
+
+ .videosTragos {
+   width: 400px; /* Ancho de historia de Instagram */
+   height: 700px; /* Alto de historia de Instagram */
+   object-fit: cover; /* Ajustar video al tamaño del contenedor */
+   border-radius: 60px;
+   border: 1px solid #ffc107;
+ }
+
+
+ .texto-overlay {
+   position: absolute;
+   top: 12%;
+   left: 39%;
+   transform: translate(-50%, -50%);
+   color: white;
+   text-align: center;
+   font-family: arimo;
+}
+
+.texto-overlay p {
+   font-size: 1.2rem;
+}
+ 
