@@ -325,7 +325,7 @@
 
 
  .videosTragos {
-   width: 400px; /* Ancho de historia de Instagram */
+   width: 360px; /* Ancho de historia de Instagram */
    height: 700px; /* Alto de historia de Instagram */
    object-fit: cover; /* Ajustar video al tamaño del contenedor */
    border-radius: 60px;
