@@ -335,13 +335,15 @@
 
  .texto-overlay {
    position: absolute;
-   top: 12%;
+   top: 73.9%;
    left: 39%;
    transform: translate(-50%, -50%);
    color: white;
    text-align: center;
    font-family: arimo;
+   font-style: italic;
 }
+
 
 .texto-overlay p {
    font-size: 1.2rem;
